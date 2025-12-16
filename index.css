@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: 'BT';
-  src: url('BT.ttf') format('truetype');
+  src: url('BT.woff2') format('woff2');
 }
 .h1 {
   font-family: 'Chill';
