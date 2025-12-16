@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: 'Chill';
-  src: url('chill.otf') format('opentype');
+  src: url('chill.woff') format('woff');
 }
 .h1 {
   font-family: 'Chill', sans-serif;
